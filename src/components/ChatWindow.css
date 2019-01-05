@@ -1,0 +1,17 @@
+.header{
+    height: 100px;
+    width: 100%;
+    
+}
+
+.Chat{
+    background: #2b2c33;
+}
+
+.Chat.is-user-msg {
+    background: #2b2c33;
+    }
+
+.input{
+    
+}
